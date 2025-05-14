@@ -17,3 +17,7 @@ It ensures a seamless and enjoyable browsing experience across all devices — m
 
 ## Live Demo
 Visit the live site here: [Food Munch Website](https://abhishekwebres.ccbp.tech/)
+## Screenshots
+### Home Page
+
+![Home Page](https://res.cloudinary.com/dzftwxkiu/image/upload/v1746858860/Screenshot_2025-05-10_120226_lx38r2.png)
